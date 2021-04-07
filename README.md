@@ -1,2 +1,2 @@
-# CSS-Al-t-rma-
+# CSS-Alistirma
 CSS alıştırma Patikadev ödev
